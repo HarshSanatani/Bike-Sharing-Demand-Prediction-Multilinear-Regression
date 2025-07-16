@@ -76,8 +76,8 @@ The dataset includes historical bike-sharing data with the following key feature
 - **Matplotlib/Seaborn** (Visualizations)  
 
 ## Author  
-[Harshraj Chavda]  
-Email: [harshchavda439@gmail.com]  
+Harshraj Chavda  
+Email: harshchavda439@gmail.com
 
 ## License  
 This project is open-source and available under the **MIT License**.  
